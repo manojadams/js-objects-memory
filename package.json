@@ -1,0 +1,19 @@
+{
+  "name": "js-object-memory",
+  "version": "1.0.0",
+  "description": "Memory comparision of js objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/manojadams/js-object-memory.git"
+  },
+  "author": "manojadams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manojadams/js-object-memory/issues"
+  },
+  "homepage": "https://github.com/manojadams/js-object-memory#readme"
+}
