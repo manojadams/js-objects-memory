@@ -25,3 +25,5 @@ npm install serve --global
 
 - cd into the current directory of the project.
 - Run command `serve`
+
+## Give a ⭐️ if you liked this repo!
