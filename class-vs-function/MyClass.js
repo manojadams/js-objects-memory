@@ -12,8 +12,9 @@ class MyClass {
 }
 
 // Create 1 million objects using MyClass and store in myClassObjects array
-const myClassObjects = [];
 const TOTAL_OBJECTS = 10_00_000;
+const myClassObjects = [];
+
 for(let i = 0; i < TOTAL_OBJECTS; i++) {
     myClassObjects.push(new MyClass(i));
 }
