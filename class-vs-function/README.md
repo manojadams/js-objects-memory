@@ -1,6 +1,6 @@
 ## Class vs Function objects - A memory comparison
 
-<p style="text-align:center">
+<p align="center">
   <img 
     src="https://github.com/manojadams/js-objects-memory/assets/1009561/c9192951-3c82-4260-96f0-71fb3e5e1092" 
     alt="class-vs-function" 
