@@ -23,9 +23,3 @@ if (myFunctionObjects.length !== TOTAL_OBJECTS) {
 }
 
 
-for(let i = 0; i < 10_00_000; i++) {
-    myFunctionObjects.push(new ABC());
-}
-
-
-
