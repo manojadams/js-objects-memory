@@ -33,6 +33,7 @@ We compared both and the result is surprising.
   <img 
     src="https://github.com/manojadams/js-objects-memory/assets/1009561/276d0d46-1b02-42e1-8897-d350a47694cd"
     alt="Class Objects memory"
+    width="720"
   />
 </p>
 
@@ -41,6 +42,7 @@ We compared both and the result is surprising.
   <img 
     src="https://github.com/manojadams/js-objects-memory/assets/1009561/b3f7dabc-eb36-42a7-806c-f8f6eb24ffcc"  
     alt="function objects memory"
+    width="720"
   />
 </p>
 
@@ -49,6 +51,7 @@ We compared both and the result is surprising.
   <img 
     src="https://github.com/manojadams/js-objects-memory/assets/1009561/6de7de23-a6b3-4065-a2b7-93aee08d5277"
     alt="function with inner functions objects memory"
+    width="720"
   />
 </p>
 
