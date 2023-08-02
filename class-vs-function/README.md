@@ -22,14 +22,13 @@ To start with, we created 1 million JavaScript Objects using class definition an
 We compared both and the result is surprising.
 
 #### Objects created using class definition
-![MyClass](https://github.com/manojadams/js-objects-memory/assets/1009561/6f15aea4-aa53-4d3b-a9d9-3923382409ff)
+![MyClass](https://github.com/manojadams/js-objects-memory/assets/1009561/276d0d46-1b02-42e1-8897-d350a47694cd)
 
 #### Objects created using function definition
-![MyFunction](https://github.com/manojadams/js-objects-memory/assets/1009561/25db6b1e-7550-4174-95dd-7ee85da099dc)
+![MyFunction](https://github.com/manojadams/js-objects-memory/assets/1009561/b3f7dabc-eb36-42a7-806c-f8f6eb24ffcc)
 
 #### Objects created using function definition
-![MyFunction_withInnerFunction](https://github.com/manojadams/js-objects-memory/assets/1009561/96a7501e-f1c9-4c81-8750-cfe66f943f23)
-
+![MyFunction_withInnerFunction](https://github.com/manojadams/js-objects-memory/assets/1009561/6de7de23-a6b3-4065-a2b7-93aee08d5277)
 
 
 
