@@ -55,8 +55,19 @@ We compared both and the result is surprising.
   />
 </p>
 
-### Result
+## Overall results
+- The _retained size_** of objects created with function is very high.
 
+| Name | Detail |
+|------|--------|
+| Objects created with class |  **16 * 10^<sup>6</sup> Bytes**|
+| Objects created with function | **24 * 10^<sup>6</sup> Bytes**|
+| Objects created with nested function | **16 * 10^<sup>6</sup> Bytes**|
+
+### **Terminology
+
+- Shallow size - size of memory held by object itself
+- Retained size - size of memory held by object and memory of its references (not memory held by referenced objects but the references itself).
 
 
 
