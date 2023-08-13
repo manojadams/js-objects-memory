@@ -8,6 +8,20 @@ A performance comparison between function definition, function expression and ar
   - withFunctionDefinition.js
   - withFunctionExpression.js
   - withArrowDefinition.js
+- To measure performance with traditional function definition, run command
+```bash
+node withFunctionDefinition.js
+```
+
+- To measure performance with function expression, run command
+```bash
+node withFunctionExpression.js
+```
+
+- To measure performance with arrow functions, run command
+```bash
+node withArrowDefinition.js
+```
 
 ### 1. withFunctionDefinition.js
 This file contains 1 million function definitions created with javascript traditionally like below:
