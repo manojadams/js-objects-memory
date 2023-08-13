@@ -47,3 +47,4 @@ const myFunction = () => console.log("Hi, I am created using arrow functions");
 
 ## Results
 Function created traditionally using step 1 has the best performance.
+- To be noted, that both steps 2 and step 3 are both kind of expression definitions and takes similar time to be created.
