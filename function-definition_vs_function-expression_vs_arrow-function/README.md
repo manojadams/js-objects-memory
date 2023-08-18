@@ -35,6 +35,7 @@ function myFunction() {
 This file contains 1 million function definitions created using function expression like below:
 ```javascript
 const myFunction = function() {
+  console.log("this is my function expression");
 }
 ```
 
